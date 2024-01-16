@@ -1,6 +1,6 @@
 # MachineLearning
 
-## Interesting Topics Explored
+## Overview
 
 ### 1. Dataset Feature Selection
 Created linear regression predictors using  forward-stepwise selection. Ranked features using K-fold cross-validation. Decreased testing error by applying basis expansion. Achieved a F1 score above 0.97 in all test cases
