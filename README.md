@@ -18,4 +18,4 @@ Classified banknotes as authentic or forgery  using a neural network with two hi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mbadalbadalian/Machine-Learning-Algorithms.git
+   git clone https://github.com/mbadalbadalian/MachineLearning.git
